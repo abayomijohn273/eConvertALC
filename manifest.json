@@ -1,0 +1,11 @@
+{
+  "short_name": "eConverterALC",
+  "name": "eConverterALC",
+  "icons": [{
+    "src": "img/logo.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }],
+  "start_url": "/",
+  "display": "standalone"
+}
